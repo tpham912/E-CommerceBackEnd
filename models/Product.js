@@ -20,7 +20,7 @@ Product.init(
         allowNull: false
     },
     price: {
-      type: DataTypes.DECIMAL(10, 2),
+      type: DataTypes.DECIMAL,
       allowNull: true
     },
     stock: {
@@ -42,7 +42,7 @@ Product.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'traveller'
+    modelName: 'product'
   }
 );
 module.exports = Product;
