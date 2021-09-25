@@ -25,10 +25,18 @@ E-commerce is the largest sector of the electronics industry, generating an esti
 - [dotenv](https://www.npmjs.com/package/dotenv)
 
 # Appearance
+- In Insomnia Core, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.
+![In Insomnia Core, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./Assets/Demo1.gif)
 
+- In Insomnia Core, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”
+![In Insomnia Core, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”](./Assets/Demo2.gif)
+
+- In Insomnia Core, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”
+![In Insomnia Core, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”](./Assets/Demo3.gif)
 
 # Link
 
+GitHub Link: https://github.com/tpham912/E-CommerceBackEnd
 
 # Contributor 
 
